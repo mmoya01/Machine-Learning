@@ -1,1 +1,6 @@
 # Machine-Learning
+This repository contains my ML project paper that I wrote and our midterm exam. I have also attached the corresponding python files that I wrote to answer both assignments
+
+
+#About the paper:
+We first consider a linear model through neural networks. Thereafter, we will construct a deeper net which holds no assumptions about the relationship between the independent and dependent variables, rather their relationship will be learned through an iterated process. This would allow us to also make nonlinear comparisons, if they exist such as the relationship between log child’s income and the log of their parent’s income and it may help alleviate the biased between observed and unobserved factors that determine mobility. The type of neural networks that will be chosen for this study is backward propagation. This study will predominately investigate the predicted classification of high versus low intergenerational mobility rates by county. Previous Economic studies have used regression analysis to predict intergenerational mobility by county. This paper considers alternative approaches such as a neural network and random forest(which are unbiased and low in variance by construction, thus yield casual results). Moreover, we will compare the predictive power to that of the standard linear regression.
