@@ -1,5 +1,5 @@
 # Machine-Learning
-This repository contains my ML project paper that I wrote and our midterm exam. I have also attached the corresponding python files that I wrote to answer both assignments
+This repository contains my ML project paper that I wrote and our midterm exam. I have also attached the corresponding python files that I wrote to answer both assignments. The algorithms I have predominately worked with include: ANN, KNN, KMeans, Decision Trees/Random Forest and SVM
 
 
 #About the paper:
